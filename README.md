@@ -51,7 +51,7 @@
 ## 💻部分页面截图
 
 **登录页面**
-![登录页面](src/assets/preview%20picture/1.login.png)
+![登录页面](https://github.com/APS-47/vue-management-system/blob/main/src/assets/preview%20picture/1.login.png)
 
 **管理员主页面**
 ![推荐歌单](src/assets/preview%20picture/2.admin-main.png)
