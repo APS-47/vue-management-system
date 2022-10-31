@@ -51,19 +51,19 @@
 ## 💻部分页面截图
 
 **登录页面**
-![登录页面](src/assets/preview%20picture/1.login.png)
+![1 login](https://user-images.githubusercontent.com/104426986/198957925-0e2010d8-e739-4319-bd3f-65d077969989.png)
 
 **管理员主页面**
-![推荐歌单](src/assets/preview%20picture/2.admin-main.png)
+![2 admin-main](https://user-images.githubusercontent.com/104426986/198957948-cada761d-14cf-4701-a8c2-d13a6a1fec43.png)
 
 **用户主页面**
-![最新音乐](src/assets/preview%20picture/3.user-main.png)
+![3 user-main](https://user-images.githubusercontent.com/104426986/198957965-4d09ef34-6a44-47de-9d74-88737f86a4e7.png)
 
 **用户管理页面**
-![最新MV](src/assets/preview%20picture/4.user-management.png)
+![4 user-management](https://user-images.githubusercontent.com/104426986/198957983-4bf81004-9a74-4900-a959-746d09605121.png)
 
 **商品详情页面**
-![搜索结果](src/assets/preview%20picture/5.mall-detail.png)
+![5 mall-detail](https://user-images.githubusercontent.com/104426986/198957998-01b25421-320b-4829-b961-c495710574c1.png)
 
 ## 📆历史版本
 #### V1.0.0 (2022年09月12日)
